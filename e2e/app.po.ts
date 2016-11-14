@@ -1,3 +1,5 @@
+import { browser, element, by } from 'protractor';
+
 export class Ng2FirstAppCliPage {
   navigateTo() {
     return browser.get('/');
