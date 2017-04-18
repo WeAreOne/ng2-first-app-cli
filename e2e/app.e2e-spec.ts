@@ -1,6 +1,6 @@
 import { Ng2FirstAppCliPage } from './app.po';
 
-describe('ng2-first-app-cli App', function() {
+describe('ng2-first-app-cli App', () => {
   let page: Ng2FirstAppCliPage;
 
   beforeEach(() => {
